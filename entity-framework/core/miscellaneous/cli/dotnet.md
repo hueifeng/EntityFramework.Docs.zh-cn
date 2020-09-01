@@ -24,12 +24,12 @@ ms.locfileid: "86238172"
 
 安装过程取决于项目类型和版本：
 
-* EF Core 1。x
+* EF Core 1.x
 * ASP.NET Core 版本2.1 及更高版本
-* EF Core 2。x
-* EF Core 1。x
+* EF Core 2.x
+* EF Core 1.x
 
-### <a name="ef-core-3x"></a>EF Core 1。x
+### <a name="ef-core-3x"></a>EF Core 1.x
 
 * `dotnet ef`必须安装为全局或本地工具。 大多数开发人员会 `dotnet ef` 使用以下命令将其安装为全局工具：
 
@@ -65,7 +65,7 @@ ms.locfileid: "86238172"
   dotnet add package Microsoft.EntityFrameworkCore.Design
   ```
 
-### <a name="ef-core-1x"></a>EF Core 1。x
+### <a name="ef-core-1x"></a>EF Core 1.x
 
 * 安装 .NET Core SDK 版本2.1.200。 更高版本与用于 EF Core 1.0 和1.1 的 CLI 工具不兼容。
 
